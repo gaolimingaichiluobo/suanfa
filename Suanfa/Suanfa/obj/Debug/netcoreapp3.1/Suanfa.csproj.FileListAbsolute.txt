@@ -1,0 +1,13 @@
+E:\project\suanfa\Suanfa\Suanfa\obj\Debug\netcoreapp3.1\Suanfa.csprojAssemblyReference.cache
+E:\project\suanfa\Suanfa\Suanfa\obj\Debug\netcoreapp3.1\Suanfa.csproj.CoreCompileInputs.cache
+E:\project\suanfa\Suanfa\Suanfa\obj\Debug\netcoreapp3.1\Suanfa.AssemblyInfoInputs.cache
+E:\project\suanfa\Suanfa\Suanfa\obj\Debug\netcoreapp3.1\Suanfa.AssemblyInfo.cs
+E:\project\suanfa\Suanfa\Suanfa\bin\Debug\netcoreapp3.1\Suanfa.exe
+E:\project\suanfa\Suanfa\Suanfa\bin\Debug\netcoreapp3.1\Suanfa.deps.json
+E:\project\suanfa\Suanfa\Suanfa\bin\Debug\netcoreapp3.1\Suanfa.runtimeconfig.json
+E:\project\suanfa\Suanfa\Suanfa\bin\Debug\netcoreapp3.1\Suanfa.runtimeconfig.dev.json
+E:\project\suanfa\Suanfa\Suanfa\bin\Debug\netcoreapp3.1\Suanfa.dll
+E:\project\suanfa\Suanfa\Suanfa\bin\Debug\netcoreapp3.1\Suanfa.pdb
+E:\project\suanfa\Suanfa\Suanfa\obj\Debug\netcoreapp3.1\Suanfa.dll
+E:\project\suanfa\Suanfa\Suanfa\obj\Debug\netcoreapp3.1\Suanfa.pdb
+E:\project\suanfa\Suanfa\Suanfa\obj\Debug\netcoreapp3.1\Suanfa.genruntimeconfig.cache
