@@ -1,0 +1,18 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     public int val;
+ *     public ListNode next;//下一个节点
+ *     public ListNode(int x) { val = x; }//当前的值
+ * }
+ */
+public class Solution {
+    //每个节点都传进来
+    //其实，只传入了要删除的节点
+    //传进来的结点就是要删除的
+    public void DeleteNode(ListNode node) {
+        node.val=node.next.val;
+        node.next=node.next.next;
+     
+    }
+}
